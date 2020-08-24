@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Apte&#39;s Portfolio Site on Portfolio</title>
+    <link>https://aaptedata.github.io/portfoliosite/</link>
+    <description>Recent content in A Apte&#39;s Portfolio Site on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://aaptedata.github.io/portfoliosite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chapter VI: Esmeralda</title>
+      <link>https://aaptedata.github.io/portfoliosite/post/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://aaptedata.github.io/portfoliosite/post/chapter-6/</guid>
+      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://aaptedata.github.io/portfoliosite/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://aaptedata.github.io/portfoliosite/post/project-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>https://aaptedata.github.io/portfoliosite/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://aaptedata.github.io/portfoliosite/post/project-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://aaptedata.github.io/portfoliosite/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaptedata.github.io/portfoliosite/contact/</guid>
+      <description>Follow me on:
+   Platform URL     Email: aaptedata@gmail.com   Github: https://github.com/aaptedata   Twitter: https://twitter.com/aaptedata   Medium: https://medium.com/@aaptedata   LinkedIn: https://www.linkedin.com/in/a-apte-cfa-824472   Stack Overflow: https://stackoverflow.com/users/10729697/a-apte   Substack: https://aapte.substack.com/   Instagram: No   Facebook: Hell No    </description>
+    </item>
+    
+  </channel>
+</rss>
